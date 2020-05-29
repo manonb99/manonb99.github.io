@@ -14,12 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Club Code
-email:
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
   The Club Code is a club from Télécom SudParis & IMT-Business School schools where people share their passion for programming. 
 github_username: club-code
 logo: /assets/images/196x196.png
 search: true
+
+baseurl: ""
+url: "https://club-code.github.io"
 
 minimal_mistakes_skin: dark
 
