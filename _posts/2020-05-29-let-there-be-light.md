@@ -2,7 +2,10 @@
 title: "Let there be light!"
 date:   2020-05-29 22:58:56 +0200
 categories:
-  - General
+  - Montage
+tags:
+  - 
+  - mécanique
 ---
 
 # About the project
