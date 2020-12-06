@@ -64,19 +64,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Club Code"
-  avatar : "/assets/images/196x196.png"
-  bio    : "Programming club of Télécom SudParis & IMT-Business School"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/club-code"
+  name   : "Aurelien"
+  avatar : "/assets/images/logo_saturne.png"
+  bio    : "On va faire du Pestacle"
 
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/club-code"
 
 defaults:
   # _posts
