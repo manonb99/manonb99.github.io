@@ -1,5 +1,5 @@
 ---
-title: "Club Code"
+title: "Agreg physique"
 layout: splash
 classes:
   - landing
@@ -9,4 +9,4 @@ header:
 excerpt: Code is Fun. We want Fun. So we code.
 ---
 
-# WIP
+# 
