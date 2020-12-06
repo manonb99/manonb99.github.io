@@ -8,5 +8,7 @@ header:
   overlay_image: /assets/images/header_splash.png
 excerpt: la physique c'est la vie.
 ---
-
+{% comment %}
+![Description](/assets/images/le_nom.jpg)
+{% endcomment %}
 # 
