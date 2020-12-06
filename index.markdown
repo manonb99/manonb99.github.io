@@ -5,7 +5,7 @@ classes:
   - landing
 header:
   overlay_filter: "0.5"
-  overlay_image: /assets/images/header_splash.png
+  overlay_image: /assets/images/Fond.jpg
 excerpt: la physique c'est la vie.
 ---
 {% comment %}
