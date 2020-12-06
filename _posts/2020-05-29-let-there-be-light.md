@@ -21,7 +21,7 @@ Let's just say that Club Code's Github has been getting more and more projects a
 {: .text-justify}
 {% comment%}
 De base texte aligné à gauche, pour avoir justifié car plus joli. Le faire à chaque paragraphe. Sinon, faire une page HTML 
-{% comment %}
+{% endcomment %}
 
 ## How long will it take to set up it ?
 
