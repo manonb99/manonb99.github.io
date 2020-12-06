@@ -6,7 +6,7 @@ classes:
 header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/header_splash.png
-excerpt: Code is Fun. We want Fun. So we code.
+excerpt: la physique c'est la vie.
 ---
 
 # 
