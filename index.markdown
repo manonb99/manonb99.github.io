@@ -11,4 +11,4 @@ excerpt: la physique c'est la vie.
 {% comment %}
 ![Description](/assets/images/le_nom.jpg)
 {% endcomment %}
-# 
+# Ce site est sponsorisé par Alexandre Conte, coeur sur lui
