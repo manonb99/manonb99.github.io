@@ -35,7 +35,7 @@ $max-width: 80%;
 
 .pdf {
 	width: 100%;
-	height: calc(100vw * 0.70710);
+	height: calc(100vh);
 }
 
 .video .fluid-width-video-wrapper {
@@ -43,9 +43,6 @@ $max-width: 80%;
 }
 
 @media (min-width: 64rem) {
-	.pdf {
-		height: calc((100vw - 200px) * 0.70710);
-	}
 	.video .fluid-width-video-wrapper {
 		height: calc((100vw - 200px) * 0.56);
 	}
@@ -53,15 +50,10 @@ $max-width: 80%;
 
 
 @media (min-width: 80rem) {
-	.pdf {
-		height: calc((80vw - 300px) * 0.70710);
-	}
 	.video .fluid-width-video-wrapper {
 		height: calc((80vw - 300px) * 0.56);
 	}
 }
-
-
 
 
 
