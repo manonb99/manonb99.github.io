@@ -35,5 +35,41 @@ $max-width: 80%;
 
 .pdf {
 	width: 100%;
-	height: calc(80vw * 0.70710);
+	height: calc(100vw * 0.70710);
+}
+
+.video .fluid-width-video-wrapper {
+	height: calc(100vw * 0.56);
+}
+
+@media (min-width: 64rem) {
+	.pdf {
+		height: calc((100vw - 200px) * 0.70710);
+	}
+	.video .fluid-width-video-wrapper {
+		height: calc((100vw - 200px) * 0.56);
+	}
+}
+
+
+@media (min-width: 80rem) {
+	.pdf {
+		height: calc((80vw - 300px) * 0.70710);
+	}
+	.video .fluid-width-video-wrapper {
+		height: calc((80vw - 300px) * 0.56);
+	}
+}
+
+
+
+
+
+p > code, a > code, li > code, figcaption > code, td > code {
+	border: 1px solid #717171;
+}
+
+.fluid-width-video-wrapper {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
 }
