@@ -4,12 +4,12 @@
  categories:
    - Leçon
  tags:
-   - Corps noir
+   - Optique
  ---
 
  # Une démonstration de l'insertion d'un pdf
 
- [Lien du PDF](/assets/pdf/entretiens_techniques.pdf)
+ [Lien du PDF](/assets/pdf/LP17_Rayonnement_thermique_d__equilibre_Corps_noir.pdf)
 
  <object class="pdf fitvidsignore" data="/assets/pdf/LP17_Rayonnement_thermique_d__equilibre_Corps_noir.pdf" type="application/pdf"></object>
 
