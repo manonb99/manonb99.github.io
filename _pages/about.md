@@ -7,5 +7,5 @@ title: "About"
 
 # A propos
 
-Du pestacle.
+Voilà comment est rangé le site  :
 {: .text-justify}
