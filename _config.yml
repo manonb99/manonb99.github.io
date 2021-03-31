@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Aurélieng
+title: Manon
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Bonjour
-github_username: aure00
+github_username: manonb99
 logo: /assets/images/logo_saturne.png
 search: true
 
 baseurl: ""
-url: "https://aure00.github.io"
+url: "https://manonb99.github.io"
 
 minimal_mistakes_skin: air
 
@@ -64,7 +64,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Aurelien"
+  name   : "Manon"
   avatar : "/assets/images/logo_saturne.png"
   bio    : "On va faire du Pestacle"
 
