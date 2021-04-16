@@ -1,0 +1,33 @@
+---
+title: "LPOB18 : Stabilité du noyau"
+date:   2021-04-16 14:15:00 +0100
+categories:
+  - LPOB
+tags:
+  - Noyau
+  - Particules
+  - Interactions
+---
+{% comment %}
+Ceci est un commentaire. Code : markdown
+{% endcomment %}
+
+# Idée de plan de la leçon
+
+
+## Généralités sur le noyau
+Notations, définitions, dont celle du défaut de masse et de l'énergie de liaison.
+
+{: .text-justify}
+##Modèles 
+Notamment celui de la goutte liquide et la formule de Bethe-Weiszacker (pas sure que ça soit la bonne écriture).
+
+{: .text-justify}
+## Radioactivité
+Donner les équations de radioactivité, paraboles de masses.
+
+{: .text-justify}
+## Applications
+Peut être faire une application sur la fusion par exemple.
+
+{: .text-justify}
