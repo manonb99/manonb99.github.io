@@ -10,6 +10,6 @@ tags:
 
 # Utile pour la leçon LC26
 
-[Lien du PDF](assets/pdf/Enthalpiecalorimétre_CACAB_p129.pdf)
+[Lien du PDF](assets/pdf/PileDaniell_CACRO_p243.pdf)
 
-{% include pdf src="/assets/pdf/Enthalpiecalorimétre_CACAB_p129.pdf" %}
+{% include pdf src="/assets/pdf/PileDaniell_CACRO_p243.pdf" %}
