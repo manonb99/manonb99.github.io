@@ -7,6 +7,7 @@ tags:
   - Optique
   - Goniomètre
   - Doublet du Sodium
+  - MP10
 ---
 
 # Extrait du cahier de manips
