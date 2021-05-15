@@ -6,6 +6,7 @@ categories:
 tags:
   - Conduction électrique
   - Resistance
+  - MP17
 ---
 
 # Extrait du cahier de manips
