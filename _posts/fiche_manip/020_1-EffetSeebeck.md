@@ -5,6 +5,7 @@ categories:
   - Manips physique
 tags:
   - Thermodynamique
+  - MP05
 ---
 
 # Extrait du cahier de manips
