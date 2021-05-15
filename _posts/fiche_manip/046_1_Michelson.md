@@ -6,7 +6,9 @@ categories:
 tags:
   - Optique
   - Michelson
-  - - Doublet du Sodium
+  - Doublet du Sodium
+  - MP08
+  - MP10
 ---
 
 # Extrait du cahier de manips
