@@ -1,5 +1,5 @@
 ---
-title: "Réglage d'une limentation stabilisée"
+title: "Réglage d'une alimentation stabilisée"
 date:   2020-05-25 15:55:00 +0100
 categories:
   - Manips physique
