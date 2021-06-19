@@ -1,6 +1,6 @@
 ---
 title: "015.1 : Point triple de l'azote"
-date:   2020-05-28 15:55:00 +0100
+date:   2021-01-28 15:55:00 +0100
 categories:
   - Manips physique
 tags:
