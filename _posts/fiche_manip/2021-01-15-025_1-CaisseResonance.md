@@ -1,6 +1,6 @@
 ---
 title: "025.1 : Caisse de résonance"
-date:   2020-05-15 15:55:00 +0100
+date:   2021-01-15 15:55:00 +0100
 categories:
   - Manips physique
 tags:
