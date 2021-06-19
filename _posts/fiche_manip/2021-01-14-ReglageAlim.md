@@ -1,6 +1,6 @@
 ---
 title: "Réglage d'une alimentation stabilisée"
-date:   2020-05-14 15:55:00 +0100
+date:   2021-01-14 15:55:00 +0100
 categories:
   - Manips physique
 tags:
