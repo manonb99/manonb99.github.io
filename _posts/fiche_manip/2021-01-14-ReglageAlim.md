@@ -2,7 +2,7 @@
 title: "Réglage d'une alimentation stabilisée"
 date:   2021-01-14 15:55:00 +0100
 categories:
-  - Manips physique
+  - Réglages physique
 tags:
   - Alimentation stabilisée
   - MP27
