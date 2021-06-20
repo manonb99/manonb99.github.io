@@ -7,6 +7,8 @@ title: "About"
 
 # A propos
 
+Liens utiles :
+
 Voilà comment est rangé le site  :  
 * **Leçons de Physique 2019** : les leçons de physique de 2019 qui ont éte présentées dans l'année  
 * **LPOB** : Lećon de physique des oraux blancs, dont celles auxquelles j'ai vaguement réfléchi  
