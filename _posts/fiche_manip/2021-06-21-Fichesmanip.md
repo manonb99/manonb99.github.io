@@ -32,33 +32,3 @@ tags:
 
 {% include pdf src="/assets/pdf/Manip/Poly/PLL.pdf" %}
 
-# TP Frottements statiques
-
-[Lien du PDF](/https://fr.scribd.com/document/74758384/TP6-Frottement-statique)
-
-{% include pdf src="/assets/pdf/Manip/Poly/TP6 Frottement statique.pdf" %}
-
-# Translation de fréquence
-
-[Lien du PDF](/assets/pdf/Manip/Poly/TPTranslationDeFrequence.pdf)
-
-{% include pdf src="/assets/pdf/Manip/Poly/TPTranslationDeFrequence.pdf" %}
-
-# Asservissement LED
-
-[Lien du PDF](/assets/pdf/Manip/Poly/asserv flux lumineux (1).pdf)
-
-{% include pdf src="/assets/pdf/Manip/Poly/asserv flux lumineux (1).pdf" %}
-
-# Asservissment MCC
-
-[Lien du PDF](/assets/pdf/Manip/Poly/asserv vitesse mcc (1).pdf)
-
-{% include pdf src="/assets/pdf/Manip/Poly/asserv vitesse mcc (1).pdf" %}
-
-# Cycle d'hystérésis par effet Faraday
-
-[Lien du PDF](/assets/pdf/Manip/Poly/caract.pdf)
-
-{% include pdf src="/assets/pdf/Manip/Poly/caract.pdf" %}
-
