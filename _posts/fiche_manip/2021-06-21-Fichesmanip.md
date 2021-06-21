@@ -62,26 +62,3 @@ tags:
 
 {% include pdf src="/assets/pdf/Manip/Poly/caract.pdf" %}
 
-# Effet de peau
-
-[Lien du PDF](/assets/pdf/Manip/Poly/effet.pdf)
-
-{% include pdf src="/assets/pdf/Manip/Poly/effet.pdf" %}
-
-# Module d'Young
-
-[Lien du PDF](/assets/pdf/Manip/Poly/lame.pdf)
-
-{% include pdf src="/assets/pdf/Manip/Poly/lame.pdf" %}
-
-# Magne2tosctriction
-
-[Lien du PDF](/assets/pdf/Manip/Poly/magnetostriction.pdf)
-
-{% include pdf src="assets/pdf/Manip/Poly/magnetostriction.pdf" %}
-
-# Multiplexage
-
-[Lien du PDF](/assets/pdf/Manip/Poly/multiplexeur.pdf)
-
-{% include pdf src="/assets/pdf/Manip/Poly/multiplexeur.pdf" %}
