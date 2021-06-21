@@ -14,3 +14,9 @@ tags:
 [Lien du PDF](/assets/pdf/Manip/084.3_DiapasonTranslationFrequence.pdf)
 
 {% include pdf src="/assets/pdf/Manip/084.3_DiapasonTranslationFrequence.pdf" %}
+
+# Explication battements 
+
+[Lien du PDF](/assets/pdf/Manip/Poly/ExplicationsBattements.pdf)
+
+{% include pdf src="/assets/pdf/Manip/Poly/ExplicationsBattements.pdf" %}
