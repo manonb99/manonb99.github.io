@@ -15,15 +15,22 @@ tags:
 
 # Balance à jauge de contrainte
 
-[Lien du PDF](/assets/pdf/Manip/Poly/Balance avec jauge de contrainte.pdf)
+[Lien du PDF](/assets/pdf/Manip/Poly/Balance.pdf)
 
-{% include pdf src="/assets/pdf/Manip/Poly/Balance avec jauge de contrainte.pdf" %}
+{% include pdf src="/assets/pdf/Manip/Poly/Balance.pdf" %}
 
 # Bruit thermique d'une résistance
 
-[Lien du PDF](/assets/pdf/Manip/Poly/Bruit thermique (1).pdf)
+[Lien du PDF](/assets/pdf/Manip/Poly/Bruit.pdf)
 
-{% include pdf src="/assets/pdf/Manip/Poly/Bruit thermique (1).pdf" %}
+{% include pdf src="/assets/pdf/Manip/Poly/Bruit.pdf" %}
+
+
+# PLL
+
+[Lien du PDF](/assets/pdf/Manip/Poly/PLL.pdf)
+
+{% include pdf src="/assets/pdf/Manip/Poly/PLL.pdf" %}
 
 # TP Frottements statiques
 
@@ -51,30 +58,30 @@ tags:
 
 # Cycle d'hystérésis par effet Faraday
 
-[Lien du PDF](/assets/pdf/Manip/Poly/caract mag effet faraday (1).pdf)
+[Lien du PDF](/assets/pdf/Manip/Poly/caract.pdf)
 
-{% include pdf src="/assets/pdf/Manip/Poly/caract mag effet faraday (1).pdf" %}
+{% include pdf src="/assets/pdf/Manip/Poly/caract.pdf" %}
 
 # Effet de peau
 
-[Lien du PDF](/assets/pdf/Manip/Poly/effet de peau dans un fil conducteur. (2).pdf)
+[Lien du PDF](/assets/pdf/Manip/Poly/effet.pdf)
 
-{% include pdf src="/assets/pdf/Manip/Poly/effet de peau dans un fil conducteur. (2).pdf" %}
+{% include pdf src="/assets/pdf/Manip/Poly/effet.pdf" %}
 
 # Module d'Young
 
-[Lien du PDF](/assets/pdf/Manip/Poly/lame module young resonance (1).pdf)
+[Lien du PDF](/assets/pdf/Manip/Poly/lame.pdf)
 
-{% include pdf src="/assets/pdf/Manip/Poly/lame module young resonance (1).pdf" %}
+{% include pdf src="/assets/pdf/Manip/Poly/lame.pdf" %}
 
 # Magne2tosctriction
 
 [Lien du PDF](/assets/pdf/Manip/Poly/magnetostriction.pdf)
 
-{% include pdf src="assets/pdf/Manip/Poly/magnetostriction.pdf"}
+{% include pdf src="assets/pdf/Manip/Poly/magnetostriction.pdf" %}
 
 # Multiplexage
 
-[Lien du PDF](/assets/pdf/Manip/Poly/multiplexeur low cost.pdf)
+[Lien du PDF](/assets/pdf/Manip/Poly/multiplexeur.pdf)
 
-{% include pdf src="/assets/pdf/Manip/Poly/multiplexeur low cost.pdf" %}
+{% include pdf src="/assets/pdf/Manip/Poly/multiplexeur.pdf" %}
